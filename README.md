@@ -62,7 +62,7 @@ RD-55 is part of the Walksnail digital FPV fleet:
 - **RD-55 "Flylens75"** - 75mm Walksnail whoop (this drone)
 - **RD-59 "Nazgul"** - 5" Walksnail quad (testing HDZero conversion)
 
-**Current status**: VTX dead from crash - needs replacement. HDZero retrofit candidate if RD-59 test succeeds.
+**Current status**: VTX dead from crash. HDZero AOI5 retrofit planned (no spare Avatar HD Mini available).
 
 ---
 
