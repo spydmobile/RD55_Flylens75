@@ -58,6 +58,8 @@
 
 ## Repair Queue
 
-- [ ] Replace or retrofit VTX (Walksnail or HDZero pending RD-59 test)
+- [ ] Replace VTX - Options:
+  - Like-for-like: Walksnail Avatar HD Mini 1S Lite (~4g)
+  - HDZero retrofit: AOI5 (on hand)
 - [ ] Full inspection post-crash
 - [ ] Return to service

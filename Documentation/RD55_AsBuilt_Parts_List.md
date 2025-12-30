@@ -53,7 +53,7 @@
 
 | Component | Part | Notes |
 |-----------|------|-------|
-| VTX | Walksnail Avatar V1.3 | Digital HD system |
+| VTX | Walksnail Avatar HD Mini 1S Lite | DEAD - crash damage |
 | Camera | Caddx Walksnail | Integrated with VTX |
 | Antenna | Walksnail dual | Linear antennas visible |
 
