@@ -8,11 +8,13 @@ This folder contains all documentation for the RD-55 Flywoo FlyLens75 drone.
 |----------|-------------|
 | [RD55_AsBuilt_Parts_List.md](RD55_AsBuilt_Parts_List.md) | Current aircraft configuration |
 | [RD55_Build_Timeline.md](RD55_Build_Timeline.md) | Project history and milestones |
+| [RD55_HDZero_Retrofit_Plan.md](RD55_HDZero_Retrofit_Plan.md) | AOI5 conversion plan (pending bench work) |
 
 ## Document Status
 
-- **As-Built Parts List**: Initial (photo-derived, needs verification)
-- **Build Timeline**: Stub (acquisition date unknown)
+- **As-Built Parts List**: Verified (RotorVillage specs)
+- **Build Timeline**: Complete
+- **HDZero Retrofit Plan**: Planning phase (bench work pending)
 
 ## Data Sources
 
