@@ -1,6 +1,6 @@
 # RD-55 "Flylens75" As-Built Parts List
 
-**Document Status**: Initial (photo-derived, needs verification)
+**Document Status**: Verified
 **Last Updated**: December 2025
 
 ---
@@ -11,8 +11,10 @@
 |-----------|-------|
 | Designation | RD-55 |
 | Code Name | Flylens75 |
+| Full Model | Flywoo FlyLens 75 2S Walksnail V1.3 - ELRS2.4 |
 | Platform | 75mm Ducted Whoop |
 | Manufacturer | Flywoo (BNF) |
+| Vendor | RotorVillage |
 | Category | Manual FPV / R&D |
 
 ---
@@ -34,7 +36,7 @@
 |-----------|------|-------|
 | Flight Controller | Flywoo GOKU AIO | TBC - likely integrated |
 | ESC | Integrated AIO | |
-| Receiver | ELRS | Dual antenna visible |
+| Receiver | ELRS 2.4GHz | Dual antenna visible |
 
 ---
 
@@ -51,7 +53,7 @@
 
 | Component | Part | Notes |
 |-----------|------|-------|
-| VTX | Walksnail Avatar | Digital HD system |
+| VTX | Walksnail Avatar V1.3 | Digital HD system |
 | Camera | Caddx Walksnail | Integrated with VTX |
 | Antenna | Walksnail dual | Linear antennas visible |
 
@@ -65,7 +67,7 @@ Part of Walksnail fleet with RD-54 Zorro and RD-59 Nazgul. Potential HDZero retr
 | Component | Part | Notes |
 |-----------|------|-------|
 | Battery Connector | XT30 | White plug visible in photos |
-| Typical Battery | 2S 300-450mAh | TBC |
+| Typical Battery | 2S | Specific cells TBD |
 
 ---
 

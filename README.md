@@ -5,14 +5,16 @@
 **Operator**: SpyD
 **Platform**: 75mm Ducted Whoop
 
-This repository serves as the source of truth for the RD-55 "Flylens75" drone - a Flywoo FlyLens75 digital FPV whoop with Walksnail Avatar.
+This repository serves as the source of truth for the RD-55 "Flylens75" drone - a Flywoo FlyLens 75 2S with Walksnail V1.3 and ELRS 2.4GHz.
 
 ---
 
 ## Project Timeline
 
-- **Acquired**: TBD
-- **Status**: TBD
+- **Ordered**: Tuesday, April 29, 2025 (RotorVillage)
+- **In Service**: Friday, May 9, 2025
+- **Grounded**: VTX killed in crash
+- **Status**: Grounded (needs VTX replacement)
 
 ---
 
@@ -23,9 +25,9 @@ This repository serves as the source of truth for the RD-55 "Flylens75" drone - 
 - **Motors**: Flywoo Robo 1104 (x4)
 - **Video**: Walksnail Avatar (digital)
 - **Camera**: Caddx Walksnail (integrated)
-- **Receiver**: ELRS
+- **Receiver**: ELRS 2.4GHz
 - **Battery Connector**: XT30
-- **Batteries**: TBD (likely 2S 300-450mAh)
+- **Batteries**: 2S (specific cells TBD)
 
 ---
 
@@ -44,10 +46,10 @@ See [Documentation README](Documentation/README.md) for complete index.
 
 | Status | Value |
 |--------|-------|
-| **Airworthiness** | TBD |
+| **Airworthiness** | Grounded |
 | **Operational Batteries** | TBD |
-| **Recent Activity** | Repository created Dec 2025 |
-| **Known Issues** | None documented |
+| **Recent Activity** | Daily driver May-2025, crashed |
+| **Known Issues** | VTX dead (crash damage) |
 
 ---
 
@@ -58,7 +60,7 @@ RD-55 is part of the Walksnail digital FPV fleet:
 - **RD-55 "Flylens75"** - 75mm Walksnail whoop (this drone)
 - **RD-59 "Nazgul"** - 5" Walksnail quad (testing HDZero conversion)
 
-Potential future: HDZero VTX retrofit if RD-59 HDZero test succeeds.
+**Current status**: VTX dead from crash - needs replacement. HDZero retrofit candidate if RD-59 test succeeds.
 
 ---
 
