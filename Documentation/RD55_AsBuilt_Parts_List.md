@@ -23,9 +23,10 @@
 
 | Component | Part | Notes |
 |-----------|------|-------|
-| Frame | Flywoo FlyLens75 | 75mm ducted whoop frame |
+| Frame | Flywoo FlyLens75 Walksnail Frame Kit | 75mm ducted whoop |
+| Construction | Carbon fiber + polycarbonate | |
 | Prop Guards | Integrated clear ducts | Part of frame design |
-| Weight (dry) | TBD | |
+| Weight (dry) | 53.9g | |
 | AUW | TBD | |
 
 ---
@@ -34,9 +35,11 @@
 
 | Component | Part | Notes |
 |-----------|------|-------|
-| Flight Controller | Flywoo GOKU AIO | TBC - likely integrated |
-| ESC | Integrated AIO | |
-| Receiver | ELRS 2.4GHz | Dual antenna visible |
+| Flight Controller | GOKU F405 HD 1-2S ELRS AIO V2 | F405 BGA chip |
+| ESC | Integrated 12A 4-in-1 | Part of AIO |
+| Receiver | ELRS 2.4GHz | Built into AIO |
+| UARTs | 5 | |
+| Features | I2C compass input | |
 
 ---
 
@@ -44,8 +47,8 @@
 
 | Component | Part | Quantity | Notes |
 |-----------|------|----------|-------|
-| Motors | Flywoo Robo 1104 | 4 | Gold stators visible in photos |
-| Props | ~40mm triblade | 4 | Inside ducts |
+| Motors | Flywoo ROBO 1003 14800KV | 4 | Gold stators |
+| Props | 1609 4-blade 40mm | 4 | 1.5mm shaft |
 
 ---
 
@@ -53,9 +56,13 @@
 
 | Component | Part | Notes |
 |-----------|------|-------|
-| VTX | Walksnail Avatar HD Mini 1S Lite | DEAD - crash damage |
-| Camera | Caddx Walksnail | Integrated with VTX |
-| Antenna | Walksnail dual | Linear antennas visible |
+| VTX | Walksnail Avatar HD Mini 1S Lite kit | DEAD - crash damage |
+| Camera | Integrated with VTX | |
+| Frequency | 5.8GHz | |
+| Latency | 22ms | |
+| DVR | Onboard, 8GB internal | |
+| Antenna | Flywoo 5.8G Light 3dBi Brass | UFL connector |
+| Heatsink | Included | |
 
 ### Fleet Context
 Part of Walksnail fleet with RD-54 Zorro and RD-59 Nazgul. Potential HDZero retrofit candidate.
@@ -66,25 +73,22 @@ Part of Walksnail fleet with RD-54 Zorro and RD-59 Nazgul. Potential HDZero retr
 
 | Component | Part | Notes |
 |-----------|------|-------|
-| Battery Connector | XT30 | White plug visible in photos |
-| Typical Battery | 2S | Specific cells TBD |
+| Battery Connector | XT30 | |
+| Typical Battery | 2S 550-1000mAh | Up to 6 min flight time |
+| Max Speed | 70 km/h | Per Flywoo spec |
 
 ---
 
 ## Verification Status
 
-| Component | Status | Method |
+| Component | Status | Source |
 |-----------|--------|--------|
-| Frame | Confirmed | Photo ID + manifest |
-| Motors | Confirmed | Photo ID ("ROBO" visible) |
-| VTX | Confirmed | Photo ID + Nazgul docs |
-| FC/ESC | Assumed | Typical for BNF |
-| RX | Confirmed | Antenna visible |
-| Battery | Assumed | Connector type |
+| All specs | Verified | RotorVillage product listing |
 
 ---
 
-## Photo Evidence
+## References
 
-- Primary: `/Users/franconogarin/localcode/spyd.com/public/drone-lab/drones/RD-55/Flywoo_FlyLense75.jpg`
-- Album: [Google Photos](https://photos.google.com/album/AF1QipOqqx5IOb6Xd7ES1mjK1AYIISmnuHpHgIGmeAyP)
+- **Purchase**: [RotorVillage Product Page](https://rotorvillage.ca/flywoo-flylens-75-2s-walksnail-v1-3-elrs2-4/)
+- **Photos**: [Google Photos Album](https://photos.google.com/album/AF1QipOqqx5IOb6Xd7ES1mjK1AYIISmnuHpHgIGmeAyP)
+- **Local**: `/Users/franconogarin/localcode/spyd.com/public/drone-lab/drones/RD-55/`

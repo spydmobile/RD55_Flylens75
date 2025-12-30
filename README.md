@@ -20,14 +20,16 @@ This repository serves as the source of truth for the RD-55 "Flylens75" drone - 
 
 ## Current Configuration
 
-- **Frame**: Flywoo FlyLens75 (75mm ducted)
-- **FC/ESC**: Flywoo GOKU AIO (TBC)
-- **Motors**: Flywoo Robo 1104 (x4)
-- **Video**: Walksnail Avatar HD Mini 1S Lite (dead - crash damage)
-- **Camera**: Caddx Walksnail (integrated)
-- **Receiver**: ELRS 2.4GHz
+- **Frame**: Flywoo FlyLens75 (75mm ducted, carbon/polycarbonate)
+- **FC/ESC**: GOKU F405 HD 1-2S ELRS AIO V2 (12A 4-in-1, built-in ELRS 2.4G)
+- **Motors**: Flywoo ROBO 1003 14800KV (x4)
+- **Props**: 1609 4-blade 40mm (1.5mm shaft)
+- **Video**: Walksnail Avatar HD Mini 1S Lite kit (DEAD - crash damage)
+- **Camera**: Integrated with Walksnail VTX
+- **Antenna**: Flywoo 5.8G Light 3dBi Brass (UFL)
 - **Battery Connector**: XT30
-- **Batteries**: 2S (specific cells TBD)
+- **Batteries**: 2S 550-1000mAh (up to 6 min flight time)
+- **Dry Weight**: 53.9g
 
 ---
 
